@@ -4,3 +4,9 @@
 <ul>
 <li>Nodejs</li>
 </ul>
+<ul style="list-style-type➡️">
+  <li>in <strong>given</strong> arry you can put your value
+  </li>
+  <li>in <mark>r</mark> you can give the numebr of r like <b> nCr</b>
+  </li>
+</ul>
