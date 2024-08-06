@@ -13,4 +13,4 @@
 </ul>
 <br>
 <br>
-<p><strong>Note:</strong> to install <b>nodejs</b> in Linus type ` pkg install nodejs ` </p>
+<p><strong>Note:</strong> to install <b>nodejs</b> in Linus type > pkg install nodejs  </p>
