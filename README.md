@@ -11,3 +11,6 @@
   <li>in <mark>r</mark> you can give the numebr of r like <b> nCr</b>
   </li>
 </ul>
+<br>
+<br>
+<p><strong>Note:</strong> to install <b>nodejs</b> in Linus type `pkg install nodejs`</p>
